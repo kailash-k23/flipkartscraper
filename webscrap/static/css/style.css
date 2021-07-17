@@ -1,0 +1,14 @@
+body{
+    top: 100px;
+    text-align: center;
+}
+
+form{
+    display: inline-block;
+}
+
+.welcome{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
